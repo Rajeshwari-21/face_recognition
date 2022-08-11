@@ -1,2 +1,2 @@
 # face_recognition
-An AI based program that is capable of taking in data via any form  of media and help the user recognize face of the subject present in the media with the  help of Haar-Cascade features using ML algorithms in computer vision.
+Created in OpenCV, an AI based program which is curated to take multiple forms of multimedia as input and go on to recognise one or multiple faces from said piece of multimedia with the help of Haar-Cascade features.
